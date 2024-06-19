@@ -1,0 +1,5 @@
+resources:
+- ../../base
+namespace: kustom-dev
+resources:
+- ingress.yaml
