@@ -1,0 +1,9 @@
+db:
+  namespace: helm-db
+  database: postgres
+  username: user
+  password: password
+
+env:
+- name: SPRING_MAIN_BANNER-MODE
+  value: "off"
